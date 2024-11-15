@@ -1,0 +1,7 @@
+C:\Users\raranibar\source\repos\Sorteo_Fisher-Yates\Sorteo_Fisher-Yates\obj\Debug\Sorteo_Fisher-Yates.csproj.AssemblyReference.cache
+C:\Users\raranibar\source\repos\Sorteo_Fisher-Yates\Sorteo_Fisher-Yates\obj\Debug\Sorteo_Fisher-Yates.csproj.CoreCompileInputs.cache
+C:\Users\raranibar\source\repos\Sorteo_Fisher-Yates\Sorteo_Fisher-Yates\bin\Debug\Sorteo_Fisher-Yates.exe.config
+C:\Users\raranibar\source\repos\Sorteo_Fisher-Yates\Sorteo_Fisher-Yates\bin\Debug\Sorteo_Fisher-Yates.exe
+C:\Users\raranibar\source\repos\Sorteo_Fisher-Yates\Sorteo_Fisher-Yates\bin\Debug\Sorteo_Fisher-Yates.pdb
+C:\Users\raranibar\source\repos\Sorteo_Fisher-Yates\Sorteo_Fisher-Yates\obj\Debug\Sorteo_Fisher-Yates.exe
+C:\Users\raranibar\source\repos\Sorteo_Fisher-Yates\Sorteo_Fisher-Yates\obj\Debug\Sorteo_Fisher-Yates.pdb
